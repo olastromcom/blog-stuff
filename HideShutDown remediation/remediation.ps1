@@ -1,3 +1,7 @@
+# Created by Ola Ström, olastrom.com
+# Date: 2025-01-21
+# Version: 1.0
+
 # PowerShell script to update the registry value
 $registryPath = "HKLM:\SOFTWARE\Microsoft\PolicyManager\default\Start\HideShutDown"
 $registryName = "value"
